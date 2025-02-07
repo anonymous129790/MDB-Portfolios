@@ -1,6 +1,5 @@
 
-# Code for "Name Concentration Risk in Multilateral Development Banks’
-Portfolios: Measurement and Capital Adequacy Implications"
+# Code for "Name Concentration Risk in Multilateral Development Banks’ Portfolios: Measurement and Capital Adequacy Implications"
 
 # Abstract
 Sovereign loan portfolios of Multilateral Development Banks (MDBs) typically consist of only
