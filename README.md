@@ -2,8 +2,6 @@
 # Code for "Name Concentration Risk in Multilateral Development Banks’
 Portfolios: Measurement and Capital Adequacy Implications"
 
-## Eva Lütkebohmert, Julian Sester, Hongyi Shen
-
 # Abstract
 Sovereign loan portfolios of Multilateral Development Banks (MDBs) typically consist of only
 a small number of borrowers and are therefore heavily exposed to single name concentration
